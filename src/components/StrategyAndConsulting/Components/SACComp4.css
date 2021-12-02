@@ -50,7 +50,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 20px;
+    padding: 18px;
     width: 379px;
     margin: 20px;
 }
@@ -94,8 +94,8 @@
 .sacc4DiamondCard{
     /* width: 282.8px;
     height: 282.8px; */
-    width: 300px;
-    height: 300px;
+    width: 330px;
+    height: 330px;
     /* width: 18.4vw;
     height: 18.4vw; */
     transform: rotate(45deg);

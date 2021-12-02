@@ -10,12 +10,12 @@
 
 .sacc3TextContainer{
     position: absolute;
-    background-color: white;
     width: 50%;
     left: 74px;
     top: -74px;
 }
 .sacc3TextWrapper{
+    background-color: white;
     padding: 40px 40px 40px 0;
 }
 .sacc3Left{
