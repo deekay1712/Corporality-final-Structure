@@ -1,0 +1,90 @@
+.gtmc6Wrapper{
+    display: flex;
+    flex-direction: column;
+}
+.gtmHeading{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 44px;
+    text-transform: uppercase;
+    color: #3C708E;
+}
+.gtmPara{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #757575;
+}
+.gtmc6Bottom{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.gtmc6ImgBack{
+    position: relative;
+    width: max-content;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -92%);
+}
+
+
+.gtmc6Circ1{
+    position: relative;
+    width: max-content;
+    top: 50%;
+    left: 50%;
+    transform: translate(-290%, -730%);
+}
+.gtmc6Circ2{
+    position: relative;
+    width: max-content;
+    top: 50%;
+    left: 50%;
+    transform: translate(-320%, -685%);
+}
+.gtmc6Circ3{
+    position: relative;
+    width: max-content;
+    top: 50%;
+    left: 50%;
+    transform: translate(-239%, -608%);
+}
+.gtmc6Circ4{
+    position: relative;
+    width: max-content;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -632%);
+}
+
+.gtmc6Circ5{
+    position: relative;
+    width: max-content;
+    top: 50%;
+    left: 50%;
+    transform: translate(141%, -808%);
+}
+
+.gtmc6Circ6{
+    position: relative;
+    width: max-content;
+    top: 50%;
+    left: 50%;
+    transform: translate(214%, -1084%);
+}
+
+.gtmc6Circ7{
+    position: relative;
+    width: max-content;
+    top: 50%;
+    left: 50%;
+    transform: translate(190%, -1330%);
+}

@@ -62,12 +62,6 @@
 }
 
 .ppc1Img1 {
-    /* position: absolute; */
-    /* width: 500px;
-    height: 502.19px; */
-    /* left: 100%;
-    top: 50%;
-    transform: translate(-113%, -50%) !important; */
     max-width: 100%;
     transition: all 0.3s;
     display: block;
